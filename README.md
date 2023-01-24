@@ -7,7 +7,6 @@
 # Design Features
   * Dark Mode
   * Multi Language [EN + AR]
-  * Grid And Flex System
   * Responsive All Devices 
   * Menu Floating in Small Devices
   * Send Email By EmailJS Library
