@@ -6,9 +6,9 @@
 
 # Design Features
   * Dark Mode
-  * Multi Language [EN + AR]
+  * Switch Language [EN + AR]
   * Responsive All Devices 
   * Menu Floating in Small Devices
   * Send Email By EmailJS Library
   * Design Sliders by SwiperJS Library
-  * Design Scroll Smooth by ScrollRevealJS Library
+  * Design Animations by ScrollRevealJS Library
