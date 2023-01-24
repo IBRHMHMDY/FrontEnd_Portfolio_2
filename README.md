@@ -10,4 +10,6 @@
   * Grid And Flex System
   * Responsive All Devices 
   * Menu Floating in Small Devices
-  * Send Email By Services EmailJS
+  * Send Email By EmailJS Library
+  * Design Sliders by SwiperJS Library
+  * Design Scroll Smooth by ScrollRevealJS Library
