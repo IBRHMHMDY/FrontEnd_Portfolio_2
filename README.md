@@ -2,7 +2,12 @@
 * Design Portfolio Website UI
 * Design 2023
 # Tools 
-  [HTML + CSS + JS + SwiperJS + EmailJS + ScrollRevealJS]
+  - HTML
+  - CSS
+  - JS
+  - SwiperJS [Sliders]
+  - ScrollRevealJS [Animations]
+  - EmailJS [Send Email]
 
 # Design Features
   * Dark Mode
