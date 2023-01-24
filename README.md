@@ -1,8 +1,9 @@
 # Portfolio_Website
-Design Portfolio Website UI
+* Design Portfolio Website UI
+* Design 2023
 # Tools 
   [HTML + CSS + JS + SwiperJS + EmailJS + ScrollRevealJS]
-Design 2023
+
 # Design Features
   * Dark Mode
   * Multi Language [EN + AR]
