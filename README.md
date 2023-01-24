@@ -1,6 +1,4 @@
-# Portfolio_Website
-# Design:  Portfolio Website UI
-# Year:  2023
+# Project: Portfolio UI
 # Tools 
   - HTML
   - CSS
