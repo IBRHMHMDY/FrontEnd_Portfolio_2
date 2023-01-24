@@ -1,0 +1,76 @@
+
+
+/*=============== QUALIFICATION ===============*/
+.qualification__content{
+  margin: 0 auto;
+  text-align: center;
+}
+/*=============== SERVICES ===============*/
+.services__border{
+  transform: translateX(10px);
+}
+/*=============== PROJECTS ===============*/
+
+
+/* Swiper class */
+
+.projects__container .swiper-button-prev{
+  top: 4.5rem;
+  left: -20rem;
+}
+
+.projects__container .swiper-button-next{
+  top: 4.5rem;
+  right: -20rem;
+}
+.projects__container .swiper-button-prev,
+.projects__container .swiper-button-next{
+  display: none;
+}
+
+
+/*=============== TESTIMONIAL ===============*/
+
+/* Swiper class */
+.testimonials__container .swiper-button-prev{
+  left: -3rem;
+}
+.testimonials__container .swiper-button-next{
+  right: -3rem;
+}
+.testimonials__container .swiper-button-next, 
+.testimonials__container .swiper-button-prev{
+  width: 20px;
+  margin: 0 auto;
+}
+/*=============== CONTACT ===============*/
+.contact__content .content__left{
+  margin: 0 auto;
+  text-align: center;
+}
+.contact__data{
+  text-align: center;
+}
+.contact__button{
+  margin: 0 auto;
+}
+.contact__form-label{
+  right: 2rem;
+
+}
+
+
+/*=============== BREAKPOINTS ===============*/
+
+/* For large devices */
+
+@media screen and (min-width: 1200px) {
+  /* Testimonials */
+  .testimonials__container .swiper-button-next{
+    left: 3rem;
+  }
+  .testimonials__container .swiper-button-prev{
+    right: 3rem;
+  } 
+
+}
